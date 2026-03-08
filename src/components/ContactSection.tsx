@@ -36,7 +36,9 @@ const ContactSection = () =>
             <span className="text-foreground text-sm">GitHub</span>
           </a>
           <a
-          href="mailto:akmalmohamed570@gmail.com"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=akmalmohamed570@gmail.com"
+          target="_blank"
+          rel="noopener noreferrer"
           className="flex items-center gap-2 px-6 py-3 rounded-lg glass hover:box-glow transition-all duration-300 group">
 
             <Mail className="w-5 h-5 text-primary group-hover:text-accent transition-colors" />
