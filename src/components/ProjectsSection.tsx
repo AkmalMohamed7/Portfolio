@@ -14,6 +14,7 @@ const projects = [
       "Implemented High Availability (HA)",
       "Applied Security Fabric architecture",
     ],
+    github:"https://github.com/AkmalMohamed7/Fortinet-Cybersecurity-Project---NTI-Summer-Training",
   },
   {
     icon: Terminal,
@@ -27,7 +28,7 @@ const projects = [
       "Enumerated users, groups, machines",
       "Uploaded project to GitHub with documentation",
     ],
-    github: "#",
+    github: "https://github.com/AkmalMohamed7/GhostPath-tool",
   },
   {
     icon: Code,
@@ -40,6 +41,7 @@ const projects = [
       "Designed clean layout",
       "Mobile-friendly design",
     ],
+    github: "https://github.com/AkmalMohamed7/Course-Website-Project",
   },
   {
     icon: FileText,
@@ -51,6 +53,7 @@ const projects = [
       "Created use case, class, sequence diagrams",
       "Modeled real-world system architecture",
     ],
+    github: "https://github.com/AkmalMohamed7/Hotel-Management-System",
   },
 ];
 
